@@ -8,4 +8,4 @@ Display meals in DOM with image and hover effect.
 Click on meal and see the details.
 Click on generate button and fetch & display a random meal.
 
-See project here: 
+See project here: https://techiemokhele.github.io/lets-find-something-to-eat/
